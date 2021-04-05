@@ -1,6 +1,18 @@
 # Paket Belajar Python
 belajar python dari pemulai sampai mahir
 
-## Catatan
-- Mengungakan python versi > 3
-- IDE Visual Code Studio Versi 1.55.0
+# Daftar Isi
+### Dasar Python
+### Variable
+### Percabanga
+### Collection
+### Perulangan
+### Error Hendling
+### Fungsi
+### Class
+### Object Oriented Programming
+### Package
+### Penggunaan Module
+### ...
+### GUI Qt Vs Python
+### DASK (Pararel Python)
